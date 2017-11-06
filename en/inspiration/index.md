@@ -4,15 +4,13 @@
 
 ## Articles
 
-
-
-<!-- <a href="six_circles.html">
+<a href="six_circles.html">
   <div class="tile tile-50pc tile-media">
     <img src="https://i.imgur.com/w6JzH1k.png">
     <h3>6 Circles For a Collaborative Group That Works</h3>
     <p>Lessons from 5 years working in non-hierarchical groups...</p>
   </div>
-</a> -->
+</a>
 
 <a href="https://medium.com/enspiral-tales/bootstrapping-a-bossless-organisation-in-3-easy-steps-afc653e8f5e6#.wdnoa4f4x">
   <div class="tile tile-50pc tile-media">
