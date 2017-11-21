@@ -1,11 +1,32 @@
 {
-    "plugins": ["ga"],
-    "pluginsConfig": {
-      "ga": {
-        "token": "UA-31046122-6"
-      }
-    },
-    "styles": {
-        "website": "styles/website.css"
-    }
+	"plugins": [
+		"ga",
+		"edit-link",
+		"language-picker",
+		"collapsible-menu",
+		"video",
+		"youtube",
+		"anchorjs",
+		"meta"
+	],
+	"pluginsConfig": {
+		"ga": {
+			"token": "UA-31046122-6"
+		},
+		"edit-link": {
+			"base": "https://github.com/loomio/user-manual/edit/master",
+			"label": {
+				"en": "Edit This Page",
+				"de": "Seite bearbeiten",
+				"fr": "Modifier cette page"
+			},
+			"meta": {
+				"name": "og:description",
+				"content": "Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories."
+			}
+		}
+	},
+	"styles": {
+		"website": "styles/website.css"
+	}
 }

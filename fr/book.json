@@ -1,25 +1,10 @@
 {
-    "styles": {
-        "website": "styles/website.css"
-    },
-    "plugins": [
-        "collapsible-menu",
-        "video",
-        "ga",
-        "youtube",
-        "anchorjs",
-        "meta"
-    ],
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-31046122-1",
-            "configuration": {
-                "alwaysSendReferrer": true
-            }
-        },
-        "meta": {
-            "name": "og:description",
-            "content": "Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories."
-        }
-    }
+	"title": "L'École Loomio",
+	"description": "Apprenez à faciliter les échanges dans votre groupe et développez les pratiques collaboratives. Supports de formation, guides et études de cas.",
+	"author": "L'équipe Loomio",
+	"language": "fr",
+
+	"styles": {
+		"website": "styles/website.css"
+	}
 }

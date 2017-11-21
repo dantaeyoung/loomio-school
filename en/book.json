@@ -1,25 +1,10 @@
 {
-    "styles": {
-        "website": "styles/website.css"
-    },
-    "plugins": [
-        "collapsible-menu",
-        "video",
-        "ga",
-        "youtube",
-        "anchorjs",
-        "meta"
-    ],
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-31046122-1",
-            "configuration": {
-                "alwaysSendReferrer": true
-            }
-        },
-        "meta": {
-            "name": "og:description",
-            "content": "Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories."
-        }
-    }
+	"title": "Loomio School",
+	"description": "Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories.",
+	"author": "The Loomio team",
+	"language": "en",
+
+	"styles": {
+		"website": "styles/website.css"
+	}
 }
