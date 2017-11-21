@@ -35,7 +35,7 @@ _Request or track participation_
 
 Make an offer or ask people to take some action. Think of it as the online equilavent of asking a room of people "Please raise your hand if you..".
 
-There are many ways you can use a check, but only two ways to respond: Tick, meaning affirmative, or Dash meaning no or unsure.
+There are many ways you can use a check, but only two ways to respond: a Tick (✔), meaning affirmative, or an X mark (✘) meaning no or unsure.
 
 Examples:
 - I've checked my contact details are correct
@@ -139,3 +139,4 @@ or
 _I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days._
 
 Setting outcomes makes your decision archive easy to search, because you have a succinct statement for each proposal.
+
