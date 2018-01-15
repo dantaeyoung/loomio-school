@@ -1,5 +1,7 @@
 # Making decisions in Loomio
 
+![](./img/decision-types.png)
+
 Loomio does not make decisions for you. Rather, we provide tools designed to
 
 - Communicate what decision is being made
@@ -20,6 +22,7 @@ Loomio does not make decisions for you. Rather, we provide tools designed to
 Once you've tried one tool, you'll be familiar with them all.
 
 ## Time poll
+
 _Find a time to meet_
 
 Time poll makes it easy to identify when is the best time to meet.
@@ -31,6 +34,7 @@ So that you can arrange calls with people in other parts of the world, Loomio ad
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
 ## Check
+
 _Request or track participation_
 
 Make an offer or ask people to take some action. Think of it as the online equilavent of asking a room of people "Please raise your hand if you..".
@@ -38,14 +42,16 @@ Make an offer or ask people to take some action. Think of it as the online equil
 There are many ways you can use a check, but only two ways to respond: a Tick (✔), meaning affirmative, or an X mark (✘) meaning no or unsure.
 
 Examples:
+
 - I've checked my contact details are correct
 - I've read the document and left my feedback
 - I'm coming to the event
 - I'll join the working group
 
-A benefit of Check is that it automatically notifies those people who forget to participate, putting a little pressure on people to get the job done.
+A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
 ## Poll
+
 _Measure popularity or offer a choice_
 
 Enter a question and provide some options for people to choose from. People vote for one or more options - depending on if you allow single or multiple choice.
@@ -53,21 +59,25 @@ Enter a question and provide some options for people to choose from. People vote
 Write any details about the options all together in the details field, then just enter the name of the option in each poll option field.
 
 Examples:
+
 - Where should we have our Christmas party?
 - Which catering company should we use?
 - What size t-shirt would you like?
 - If we ran a workshop, how likely are you to attend?
 
 ## Dot vote
+
 _Prioritise options together_
 
 Everyone gets a number of dots to allocate against a set of options to represent how they would prioritise them. This can build a more detailed picture than a simple poll.
 
 Examples:
+
 - You're given $100 to spend on the business, how would you spend it?
 - Rank these things from highest to lowest importance.
 
 ## Proposal
+
 _Seek collective agreement_
 
 Proposals are great for bringing a discussion to a clear outcome, developing or adopting policy, approving applications, and making decisions with input from others.
@@ -85,21 +95,25 @@ You may be surprised by getting quick consensus on something you thought was goi
 ### Ways of using proposals
 
 #### Uncover the controversy
+
 _E.g. Let's put a bike stand next to the front desk_
 
 If there are two or more competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
 
 #### Series of small Yes's
+
 _E.g. We host the conference; dates and venue to be confirmed later_
 
 Break down a complex issue into smaller parts and agree on them piece by piece.
 
 #### Polarising Minority
+
 _E.g. Share our pay rates publicly_
 
 Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to put their views in perspective.
 
 #### Temperature Check
+
 _E.g. Temperature Check: we should change the privacy policy_
 
 A temperature check is a way to test how the group feels without concluding a fully realised proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
@@ -119,11 +133,13 @@ When making a proposal, state your expectations and describe the impact the prop
 If things feel tense on a personal level, we recommend that you talk one on one with the person to hear their concerns.
 
 ### Closing time
+
 Consider how the proposal closing time will affect engagement from your group members, and choose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing over a weekend.
 
 You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding.
 
 ### Setting an outcome
+
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 
 In Loomio, it's not assumed that majority wins - the outcome or conclusion of a decision is up to you to define on behalf of the group. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.
@@ -139,3 +155,5 @@ or
 _I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days._
 
 Setting outcomes makes your decision archive easy to search, because you have a succinct statement for each proposal.
+
+[image-1]:	../img/decision-types.png
