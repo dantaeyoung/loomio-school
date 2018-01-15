@@ -1,16 +1,20 @@
 # Making decisions in Loomio
 
-![](./img/decision-types.png)
+![](decision-types.png)
 
-Loomio does not make decisions for you. Rather, we provide tools designed to
+Loomio does not make decisions for you. Rather, the tool is designed to:
 
-- Communicate what decision is being made
-- Make it easy to participate
-- Highlight agreement and surface disagreement
-- Build shared understanding
-- Keep people informed of progress
+- communicate what decision is being made;
+- make it easy to participate;
+- highlight agreement and surface disagreement;
+- build shared understanding;
+- and keep people informed of progress.
 
-## All decisions follow a common pattern
+Loomio *does not* decide if any decision has "passed" or "failed". It's up to each group to decide how to interpret the results. For instance, [here's the decision-making protocol for the Enspiral community](https://handbook.enspiral.com/agreements/decisions.html). They have defined specific criteria for three different types of decision, e.g. how long the decision must be open for input, and what percentage of the group must participate to make a binding decision.
+
+Loomio provides a range of tools to support your group decision-making. You can start using them right away by visiting the [New Decision page](https://www.loomio.org/p/new/).
+
+## All Loomio decisions follow a common pattern
 
 1. Author sets up the decision with title, details and options
 2. People participate
@@ -19,11 +23,11 @@ Loomio does not make decisions for you. Rather, we provide tools designed to
 5. The poll closes, and everyone is informed of the results
 6. The author sets an outcome, notifying everyone of what will happen next
 
-Once you've tried one tool, you'll be familiar with them all.
-
 ## Time poll
 
 _Find a time to meet_
+
+![](time-poll.png)
 
 Time poll makes it easy to identify when is the best time to meet.
 
@@ -33,11 +37,14 @@ So that you can arrange calls with people in other parts of the world, Loomio ad
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
+
 ## Check
 
 _Request or track participation_
 
-Make an offer or ask people to take some action. Think of it as the online equilavent of asking a room of people "Please raise your hand if you..".
+![](check.png)
+
+Make an offer or ask people to take some action. Think of it as the online equilavent of asking a room of people "Please raise your hand if you…".
 
 There are many ways you can use a check, but only two ways to respond: a Tick (✔), meaning affirmative, or an X mark (✘) meaning no or unsure.
 
@@ -50,9 +57,12 @@ Examples:
 
 A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
+
 ## Poll
 
 _Measure popularity or offer a choice_
+
+![](poll.png)
 
 Enter a question and provide some options for people to choose from. People vote for one or more options - depending on if you allow single or multiple choice.
 
@@ -69,16 +79,23 @@ Examples:
 
 _Prioritise options together_
 
-Everyone gets a number of dots to allocate against a set of options to represent how they would prioritise them. This can build a more detailed picture than a simple poll.
+![](dot-vote.png)
+
+
+Everyone gets a number of dots to allocate against a set of options to represent their priorities. This can build a more detailed picture than a simple poll.
 
 Examples:
 
 - You're given $100 to spend on the business, how would you spend it?
 - Rank these things from highest to lowest importance.
 
+See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about this voting method.
+
 ## Proposal
 
 _Seek collective agreement_
+
+![](proposal.png)
 
 Proposals are great for bringing a discussion to a clear outcome, developing or adopting policy, approving applications, and making decisions with input from others.
 
@@ -155,5 +172,3 @@ or
 _I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days._
 
 Setting outcomes makes your decision archive easy to search, because you have a succinct statement for each proposal.
-
-[image-1]:	../img/decision-types.png
