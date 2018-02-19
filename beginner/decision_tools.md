@@ -4,13 +4,13 @@
 
 Loomio does not make decisions for you. Rather, the tool is designed to:
 
-- communicate what decision is being made;
-- make it easy to participate;
-- highlight agreement and surface disagreement;
-- build shared understanding;
-- and keep people informed of progress.
+* communicate what decision is being made;
+* make it easy to participate;
+* highlight agreement and surface disagreement;
+* build shared understanding;
+* and keep people informed of progress.
 
-Loomio *does not* decide if any decision has "passed" or "failed". It's up to each group to decide how to interpret the results. For instance, [here's the decision-making protocol for the Enspiral community](https://handbook.enspiral.com/agreements/decisions.html). They have defined specific criteria for three different types of decision, e.g. how long the decision must be open for input, and what percentage of the group must participate to make a binding decision.
+Loomio _does not_ decide if any decision has "passed" or "failed". It's up to each group to decide how to interpret the results. For instance, [here's the decision-making protocol for the Enspiral community](https://handbook.enspiral.com/agreements/decisions.html). They have defined specific criteria for three different types of decision, e.g. how long the decision must be open for input, and what percentage of the group must participate to make a binding decision.
 
 Loomio provides a range of tools to support your group decision-making. You can start using them right away by visiting the [New Decision page](https://www.loomio.org/p/new/).
 
@@ -37,7 +37,6 @@ So that you can arrange calls with people in other parts of the world, Loomio ad
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
-
 ## Check
 
 _Request or track participation_
@@ -46,17 +45,16 @@ _Request or track participation_
 
 Make an offer or ask people to take some action. Think of it as the online equilavent of asking a room of people "Please raise your hand if you…".
 
-There are many ways you can use a check, but only two ways to respond: a Tick (✔), meaning affirmative, or an X mark (✘) meaning no or unsure.
+There are many ways you can use a check, but only two ways to respond: a Tick \(✔\), meaning affirmative, or an X mark \(✘\) meaning no or unsure.
 
 Examples:
 
-- I've checked my contact details are correct
-- I've read the document and left my feedback
-- I'm coming to the event
-- I'll join the working group
+* I've checked my contact details are correct
+* I've read the document and left my feedback
+* I'm coming to the event
+* I'll join the working group
 
 A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
-
 
 ## Poll
 
@@ -70,10 +68,10 @@ Write any details about the options all together in the details field, then just
 
 Examples:
 
-- Where should we have our Christmas party?
-- Which catering company should we use?
-- What size t-shirt would you like?
-- If we ran a workshop, how likely are you to attend?
+* Where should we have our Christmas party?
+* Which catering company should we use?
+* What size t-shirt would you like?
+* If we ran a workshop, how likely are you to attend?
 
 ## Dot vote
 
@@ -81,15 +79,28 @@ _Prioritise options together_
 
 ![](dot-vote.png)
 
-
 Everyone gets a number of dots to allocate against a set of options to represent their priorities. This can build a more detailed picture than a simple poll.
 
 Examples:
 
-- You're given $100 to spend on the business, how would you spend it?
-- Rank these things from highest to lowest importance.
+* You're given $100 to spend on the business, how would you spend it?
 
 See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about this voting method.
+
+## Ranked choice
+
+_Rank options in the order of preference._
+
+![](/assets/Ranked choice.jpg)
+
+Offer a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
+
+Ranked choice particularly useful when you have a large number of options or an election setting, where you are concerned with two somewhat similar options 'stealing' votes from one another, resulting in a less popular option gaining the plurality.
+
+Examples:
+
+* What would you like to eat in the company summer party?
+* Who do you vote for the chairman of the board?
 
 ## Proposal
 
@@ -172,3 +183,4 @@ or
 _I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days._
 
 Setting outcomes makes your decision archive easy to search, because you have a succinct statement for each proposal.
+
