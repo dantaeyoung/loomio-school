@@ -11,9 +11,9 @@ Stories from people using Loomio for everything from company governance, citizen
 </div>
 
 <div class="tile tile-33pc">
-  <img src="img/social-media-squad_650.png" alt="logo" />
+  <img src="/assets/Workout for Water.png" alt="logo" />
 
-  <p>The <strong>Social Media Squad</strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
+  <p><strong>Les Mills and Unicef</strong> put their strengths together in a global campaign. <a href="http://blog.loomio.org/2017/12/21/unicef-and-les-mills-use-loomio-to-coordinate-global-fundraising-campaign/" target="_blank">This story</a> tells how that resulted tens of thousands of people to "Workout for Water".</p>
 </div>
 
 <div class="tile tile-33pc">
