@@ -53,9 +53,9 @@ Stories from people using Loomio for everything from company governance, citizen
 </div>
 
 <div class="tile tile-33pc">
-  <img src="img/wales-assembly_650.png" alt="logo"/>
+  <img src="/assets/Framework.png" alt="logo"/>
 
-  <p>The <strong>National Assembly for Wales</strong> is a Welsh law-making body. <a href="https://blog.loomio.org/2016/05/16/national_assembly_wales/" target="_blank">Read about how they used Loomio</a> to engage a diverse audience in a mutli-stakeholder engagement project.
+  <p>The <strong>New Zealand Government</strong> used Loomio for producing a Workforce Capability Framework. <a href="http://blog.loomio.org/2018/02/16/building-workforce-capability-to-address-family-violence-and-sexual-violence/" target="_blank">In this story,</a> Giselle Wansa-Harvey tells how Loomio was used in online consultation to reach wide range of people and organisations in the sector.!
 </div>
 
 <div class="tile tile-33pc">
