@@ -55,7 +55,7 @@ Stories from people using Loomio for everything from company governance, citizen
 <div class="tile tile-33pc">
   <img src="/assets/Framework.png" alt="logo"/>
 
-  <p>The <strong>New Zealand Government</strong> used Loomio for producing a Workforce Capability Framework. <a href="http://blog.loomio.org/2018/02/16/building-workforce-capability-to-address-family-violence-and-sexual-violence/" target="_blank">In this story,</a> Giselle Wansa-Harvey tells how Loomio was used in online consultation to reach wide range of people and organisations in the sector.!
+  <p>The <strong>New Zealand Government</strong> used Loomio for producing a Workforce Capability Framework. <a href="http://blog.loomio.org/2018/02/16/building-workforce-capability-to-address-family-violence-and-sexual-violence/" target="_blank">In this story,</a> Giselle Wansa-Harvey tells how Loomio was used in online consultation to reach wide range of people and organisations in the sector.
 </div>
 
 <div class="tile tile-33pc">
