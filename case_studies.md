@@ -13,7 +13,7 @@ Stories from people using Loomio for everything from company governance, citizen
 <div class="tile tile-33pc">
   <img src="/assets/Workout for Water.png" alt="logo" />
 
-  <p><strong>Les Mills and Unicef</strong> put their strengths together in a global campaign. <a href="http://blog.loomio.org/2017/12/21/unicef-and-les-mills-use-loomio-to-coordinate-global-fundraising-campaign/" target="_blank">This story</a> tells how that resulted tens of thousands of people to "Workout for Water".</p>
+  <p><strong>Les Mills and Unicef</strong> brought their strengths together in a global campaign. <a href="http://blog.loomio.org/2017/12/21/unicef-and-les-mills-use-loomio-to-coordinate-global-fundraising-campaign/" target="_blank">This story</a> tells how that resulted tens of thousands of people to "Workout for Water".</p>
 </div>
 
 <div class="tile tile-33pc">
