@@ -100,7 +100,7 @@ Ranked choice particularly useful when you have a large number of options or an 
 Examples:
 
 * What would you like to eat in the company summer party?
-* Who do you vote for the chairman of the board?
+* Who should be our next deputy mayor?
 
 ## Proposal
 
