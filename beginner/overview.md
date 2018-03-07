@@ -40,7 +40,7 @@ While a **proposal** is open, everyone in the group can state their **position**
 * **Disagree** if you believe there might be a better alternative.
 * **Block** if you’ve got serious objections.
 
-When you select your position, you can also enter a short **statement** to explain why. This creates a succinct **summary** of what everything thinks.
+When you select your position, you can also enter a short **statement** to explain why. This creates a succinct **summary** of what everyone thinks.
 
 When the proposal closes, you can post an **outcome** so everyone knows what the **result** was and the **next steps**.
 
