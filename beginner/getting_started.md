@@ -91,7 +91,7 @@ For example:
 ### Move decisions to Loomio
 
 #### If discussions are happening via email...
-Remind the group you've agreeed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and past what's been said so far and directly give everyone the Loomio link.
+Remind the group you've agreeed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and paste what's been said so far and directly give everyone the Loomio link.
 
 #### If decisions are being made in-person...
 Recall why you wanted to use Loomio, and ask if the group wants to move the discussion online before concluding a decision. Common reasons are to include people who aren't in the room, and create documentation for future reference.
